@@ -25,13 +25,6 @@ The app allows users to search for current weather and hourly forecasts by city 
 
 ---
 
-## Screenshots
-
-![Weather App Screenshot 1](./screenshots/weather-ui_1.png)
-![Weather App Screenshot 2](./screenshots/weather-ui_2.png)
-
----
-
 ## API Reference
 
 This project uses the [WeatherAPI](https://www.weatherapi.com/) to fetch real-time weather data.
